@@ -4,5 +4,5 @@ This is a project that showcases expanding cards using HTML, CSS, and JavaScript
 
 ## Screenshots
 ![Screenshot]([Screenshot 2024-02-14 202747.png](https://replit.com/@thevishvadeep/Expending-Cards#Screenshot%202024-02-14%20202747.png))
-<img src="" alt="vishvadeep-chauhan" />
+<img src="Screenshot 2024-02-14 202747.png" alt="vishvadeep-chauhan" />
 Feel free to explore the code in the respective files: `index.html`, `script.js`, and `style.css`.
